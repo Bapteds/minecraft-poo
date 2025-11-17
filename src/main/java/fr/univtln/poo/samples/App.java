@@ -1,4 +1,4 @@
-package fr.univtln.bruno.samples;
+package fr.univtln.poo.samples;
 
 /**
  * Hello world!
