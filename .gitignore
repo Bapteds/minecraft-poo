@@ -1,0 +1,64 @@
+# Maven
+target*
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.buildnumber
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Java
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+*~
+.cache/
+.gradle/
+npm-debug.log*
+
+# Generated XML (communs dans certains plugins/outils)
+# Gardez vos pom.xml; ceci ignore seulement des XML générés/temp
+**/target/**/*.xml
+**/out/**/*.xml
+
+# Test/coverage (si utilisés)
+surefire-reports/
+failsafe-reports/
+jacoco.exec
+coverage/
+
+#A verifier
+jarRepositories.xml
+misc.xml
+
+
+target/maven-status/
+target/MinecraftPOO-0.1.0-SNAPSHOT.jar

@@ -1,4 +1,4 @@
-package fr.univtln.bruno.samples;
+package fr.univtln.poo.samples;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
