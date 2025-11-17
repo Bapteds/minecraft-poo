@@ -60,6 +60,5 @@ jarRepositories.xml
 misc.xml
 
 
-target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/maven-status/
 target/MinecraftPOO-0.1.0-SNAPSHOT.jar
